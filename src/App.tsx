@@ -5,7 +5,7 @@ function App() {
     <>
       <nav className="navbar is-info">
         <div className="navbar-brand">
-          <a className="navbar-item" href="#">React.JS Redux Toolkit with Typescript CRUD Sample</a>
+          <a className="navbar-item" href="#">React Redux with Typescript CRUD </a>
         </div>
       </nav>
       <div className="container is-max-desktop">

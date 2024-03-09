@@ -6,7 +6,6 @@ This repository provides a basic but dynamic demo & reference for React.JS with 
 
 
 
-![Demo](./repo-image/demo.gif)
 
 (Note: Download Redux Dev Tools chrome extension for better visibility of your store: [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en))
 

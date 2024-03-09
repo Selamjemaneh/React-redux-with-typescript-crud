@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "employeeId": 1,
+      "name": "Juliet Oma",
+      "isActive": true,
+      "birthday": "03/08/2024",
+      "id": "b14d"
+    },
+    {
+      "employeeId": 2,
+      "name": "James Williams",
+      "isActive": true,
+      "birthday": "03/08/2024",
+      "id": "8b6d"
+    },
+    {
+      "employeeId": 3,
+      "name": "Ahmed Ali",
+      "isActive": true,
+      "birthday": "03/08/2024",
+      "id": "6f46"
+    },
+    {
+      "employeeId": 4,
+      "name": "Grace Funsho",
+      "isActive": true,
+      "birthday": "03/08/2024",
+      "id": "5c06"
+    },
+    {
+      "employeeId": 1,
+      "name": "Juliet Omask Tebo",
+      "isActive": false,
+      "birthday": "2024-03-08",
+      "id": "f26c"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ export const employeeSlice = createSlice({
     name: "employee",
     initialState: {
         list: {
-            isLoading: false,
+            isLoading: false, 
             status: "",
             values: []
         },
@@ -18,7 +18,7 @@ export const employeeSlice = createSlice({
         clearSuccessMessage: (state, payload) => {
             // TODO: Update state to clear success message
         }
-    },
+    }, 
     extraReducers: {
         [getEmployees.pending.type]: (state, action) => {
             state.list.status = "pending"
